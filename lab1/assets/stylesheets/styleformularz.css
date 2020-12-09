@@ -1,0 +1,18 @@
+body{
+	background-color: yellow;
+}
+#Gnaglowek{
+	position:relative;
+	top: 50px;
+	text-align: center;
+}
+#formularz {
+	position:relative;
+	top:100px;
+	text-align: center;
+	
+}
+#powrot {
+	position: relative;
+	top: 200px;
+}

@@ -1,0 +1,12 @@
+body{
+	background-color: yellow;
+}
+#Gnaglowek{
+	position:relative;
+	text-align: center;
+	top:50px;
+}
+#uklad {
+	position: relative;
+	top: 100px;
+}

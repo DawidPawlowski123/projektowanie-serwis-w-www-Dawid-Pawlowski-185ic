@@ -1,0 +1,17 @@
+#logo {
+	position: relative;
+	text-align: center;
+	top: 90px;
+}
+#linki{
+	position: absolute;
+	top:500px;
+}
+body{
+	background-color: yellow;
+}
+#Gnaglowek {
+	position: relative;
+	top: 100px;
+	text-align: center;
+}
