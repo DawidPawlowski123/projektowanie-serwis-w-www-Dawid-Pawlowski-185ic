@@ -5,7 +5,7 @@
   Strona1
 ![alt text](https://github.com/DawidPawlowski123/projektowanie-serwis-w-www-Dawid-Pawlowski-185ic/blob/main/lab7/screens/1.png)
   Strona2
-![alt text](https://github.com/DawidPawlowski123/projektowanie-serwis-w-www-Dawid-Pawlowski-185ic/blob/main/lab7/screens/2.png)
+![alt text](https://github.com/DawidPawlowski123/projektowanie-serwis-w-www-Dawid-Pawlowski-185ic/blob/main/lab7/screens/2_1.png)
   Strona3
 ![alt text](https://github.com/DawidPawlowski123/projektowanie-serwis-w-www-Dawid-Pawlowski-185ic/blob/main/lab7/screens/3.png)
 
