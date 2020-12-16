@@ -1,6 +1,4 @@
 
-
-
 (function () {
     var game = new Phaser.Game(320, 480, Phaser.CANVAS, 'game'); //inicjuje instancjê Phaser argumenty szerokoœæ wysokoœæ, metoda jak¹ urzywa CANAVAS
     game.state.add('Boot', Ball.Boot);
