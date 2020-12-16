@@ -1,5 +1,10 @@
 # projektowanie-serwis-w-www-Dawid-Pawlowski-185ic
 
+# Lab7
+![alt text](https://github.com/DawidPawlowski123/projektowanie-serwis-w-www-Dawid-Pawlowski-185ic/blob/main/lab6/screnny/1.png)
+![alt text](https://github.com/DawidPawlowski123/projektowanie-serwis-w-www-Dawid-Pawlowski-185ic/blob/main/lab6/screnny/2.png)
+![alt text](https://github.com/DawidPawlowski123/projektowanie-serwis-w-www-Dawid-Pawlowski-185ic/blob/main/lab6/screnny/3.png)
+
 # Lab6
 ![alt text](https://github.com/DawidPawlowski123/projektowanie-serwis-w-www-Dawid-Pawlowski-185ic/blob/main/lab6/screnny/1.png)
 
